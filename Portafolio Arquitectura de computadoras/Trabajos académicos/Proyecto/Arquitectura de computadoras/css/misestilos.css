@@ -1,0 +1,44 @@
+.barra{
+	background-color: #1b7ebb;
+}
+
+h1{
+	text-align: center;
+	color: #401212;
+	font-family: georgia;
+}
+
+h2{	
+	color: #401212;
+	font-family: georgia;
+}
+
+h3{	
+	color: #401212;
+	font-family: georgia;
+	
+}
+
+.equipo{
+	background-color: #1b7ebb;
+	font-family: georgia;
+	font-size: 30px;
+	text-align: center;
+}
+
+h4{	
+	color: #401212;
+	font-family: georgia;
+	
+}
+
+h5{
+	text-align: center;
+	font-size: 28;
+}
+
+.font{
+	font-size: 28;
+	font-family: georgia;
+	color: #401212;
+}
